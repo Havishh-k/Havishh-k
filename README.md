@@ -1,5 +1,10 @@
-# 💫 About Me:
-🔭 I’m currently working on: my Bachelor of Science in Data Science and developing my skills in data analytics. <br>👯 I’m looking to collaborate on: AI, Machine Learning, and Python-based projects.<br>🤝 I’m looking for help with: building real-world Machine Learning models and advanced Python applications.<br>🌱 I’m currently learning: data science libraries like Pandas, NumPy, and scikit-learn.<br>💬 Ask me about: digital marketing, executing strategic campaigns, or providing technical support for high-traffic events. <br>⚡ Fun fact: I can seamlessly switch between analyzing data and managing technical operations at major live events!
+🚀 Data Science Student & Event Strategist
+I am a B.Sc. Data Science student at the intersection of data-driven decision-making and operational excellence.
+Working on: Mastering the ML pipeline and refining my data analytics workflow.
+Learning: Pandas | NumPy | Scikit-Learn | Advanced Python
+Collaborating: Open to any projects involving Predictive Modeling or AI automation.
+Background: Experience in Digital Marketing and on-ground technical support for large-scale live events (e.g., Lollapalooza India).
+The Twist: I thrive in high-pressure environments, whether it’s debugging code or managing live event F&B tech support.
 
 
 ## 🌐 Socials:
