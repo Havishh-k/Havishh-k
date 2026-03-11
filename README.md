@@ -1,10 +1,10 @@
-🚀 Data Science Student & Event Strategist
-I am a B.Sc. Data Science student at the intersection of data-driven decision-making and operational excellence.
-Working on: Mastering the ML pipeline and refining my data analytics workflow.
-Learning: Pandas | NumPy | Scikit-Learn | Advanced Python
-Collaborating: Open to any projects involving Predictive Modeling or AI automation.
-Background: Experience in Digital Marketing and on-ground technical support for large-scale live events (e.g., Lollapalooza India).
-The Twist: I thrive in high-pressure environments, whether it’s debugging code or managing live event F&B tech support.
+🚀 Data Science Student & Event Strategist<br>
+I am a B.Sc. Data Science student at the intersection of data-driven decision-making and operational excellence.<br>
+Working on: Mastering the ML pipeline and refining my data analytics workflow.<br>
+Learning: Pandas | NumPy | Scikit-Learn | Advanced Python<br>
+Collaborating: Open to any projects involving Predictive Modeling or AI automation.<br>
+Background: Experience in Digital Marketing and on-ground technical support for large-scale live events (e.g., Lollapalooza India).<br>
+The Twist: I thrive in high-pressure environments, whether it’s debugging code or managing live event F&B tech support.<br>
 
 
 ## 🌐 Socials:
